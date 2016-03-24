@@ -1,0 +1,1 @@
+Generates sitemap.xml file by docComment mark @sitemap for Yii controllers actions. Has few options and allows dynamic creation of URLs.
